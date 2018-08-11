@@ -1032,7 +1032,7 @@ header .social-links ul li a:focus {
 }
 
 .main-content-tablecell #counter {
-	margin-bottom: 4.2rem;
+	margin-bottom: 0rem;
 }
 .main-content-tablecell #counter:before,
 .main-content-tablecell #counter:after {
